@@ -1,0 +1,8 @@
+"# My Project Repository" 
+" " 
+"This repository was created to practice Git workflows." 
+" " 
+"## Current Features:" 
+"- Branch management" 
+"- Conflict resolution" 
+"- Remote synchronization" 
